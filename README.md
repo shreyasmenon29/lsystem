@@ -15,4 +15,4 @@ A Tkinter + Turtle based GUI program that generates L-system fractals.
 2. Run:
 
 ```bash
-python lsystem_gui.py
+python lsystem.py
